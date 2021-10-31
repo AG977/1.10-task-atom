@@ -113,6 +113,8 @@ button:focus,
 
 .page-header__item {
   flex-grow: 1;
+  height: 70px;
+  width: 250px;
 }
 
 /* Footer */
@@ -126,6 +128,13 @@ button:focus,
 
 .github {
   background-color: var(--tertiary-color);
+}
+
+.github,
+.twitter,
+.linkedin {
+  height: 30px;
+  width: 30px;
 }
 
 /* Navigation list */
