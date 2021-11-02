@@ -107,14 +107,17 @@ button:focus,
 .page-header {
   display: flex;
   width: 100%;
-  padding: 20px;
+  padding: 10%;
   margin-bottom: auto;
 }
 
 .page-header__item {
   flex-grow: 1;
-  height: 70px;
-  width: 250px;
+}
+
+.page-header_item {
+  height: 50px;
+  width: 170px;
 }
 
 /* Footer */
