@@ -135,7 +135,7 @@ button:focus,
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  padding: 20px;
+  padding: 10%;
   margin-bottom: auto;
 }
 
@@ -143,8 +143,11 @@ button:focus,
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  height: 70px;
-  width: 250px;
+}
+
+.page-header_item {
+  height: 50px;
+  width: 190px;
 }
 
 /* Footer */
@@ -204,7 +207,9 @@ button:focus,
 }
 
 .profile {
-  padding: 25%;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* about page */
