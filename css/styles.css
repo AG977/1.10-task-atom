@@ -117,7 +117,7 @@ button:focus,
 
 .page-header_item {
   height: 50px;
-  width: 170px;
+  width: 190px;
 }
 
 /* Footer */
@@ -172,7 +172,9 @@ button:focus,
 }
 
 .profile {
-  padding: 25%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* about page */
