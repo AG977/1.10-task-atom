@@ -135,7 +135,11 @@ button:focus,
   display: -ms-flexbox;
   display: flex;
   width: 100%;
+<<<<<<< Updated upstream
   padding: 20px;
+=======
+  padding: 5% 10%;
+>>>>>>> Stashed changes
   margin-bottom: auto;
 }
 
@@ -159,6 +163,7 @@ button:focus,
   flex-direction: column;
   text-align: center;
   margin-top: auto;
+  padding: 5% 10%;
 }
 
 .github {
