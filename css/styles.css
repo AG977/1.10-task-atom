@@ -113,8 +113,11 @@ button:focus,
 
 .page-header__item {
   flex-grow: 1;
-  height: 70px;
-  width: 250px;
+}
+
+.page-header_item {
+  height: 50px;
+  width: 190px;
 }
 
 /* Footer */
@@ -170,7 +173,9 @@ button:focus,
 }
 
 .profile {
-  padding: 25%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* about page */
