@@ -107,11 +107,7 @@ button:focus,
 .page-header {
   display: flex;
   width: 100%;
-<<<<<<< Updated upstream
-  padding: 20px;
-=======
   padding: 5% 10%;
->>>>>>> Stashed changes
   margin-bottom: auto;
 }
 
